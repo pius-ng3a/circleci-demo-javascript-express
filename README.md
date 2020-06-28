@@ -6,7 +6,7 @@
 [![Discuss on Hashnode](
 https://hashnode.github.io/badges/mern.svg)](https://hashnode.com/n/mern)
 
-
+#Edited By ng3a for circleci
 MERN is a scaffolding tool which makes it easy to build isomorphic apps using Mongo, Express, React and NodeJS. It minimises the setup time and gets you up to speed using proven technologies.
 
 - [Website](http://mern.io)
